@@ -1,0 +1,4 @@
+{
+    "command": "PORT=<port> HOST=<host> BROWSER=none npm start",
+    "working_directory": "/home/kavia/workspace/code-generation/client-side-video-and-rhythm-band-editor-214544-214553/frontend_react"
+}
